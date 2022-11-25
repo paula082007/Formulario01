@@ -1,8 +1,17 @@
-body{
-  background: gray;
+body {
+  background: blue;
 }
 
 form label{
   display: block;
   font-size: 20px;
+}
+
+td {
+
+border: 1px solid #000000;
+  font-size:30px;
+
+border-color: cor;
+
 }
